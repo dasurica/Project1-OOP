@@ -1,0 +1,3 @@
+C:/Users/dariu/Documents/Facultate/An 1 Sem 2/Proiecte POO/Proiect 1/cmake-build-debug/CMakeFiles/Proiect_1.dir
+C:/Users/dariu/Documents/Facultate/An 1 Sem 2/Proiecte POO/Proiect 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dariu/Documents/Facultate/An 1 Sem 2/Proiecte POO/Proiect 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
